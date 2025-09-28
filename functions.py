@@ -87,7 +87,7 @@ def markDone(tugasKu):
             
     return hasil
 
-# Fungsi untuk menandakan suatu tugas sudah selesai
+# Fungsi untuk menghapus tugas
 '''
 Memiliki cara yang kurang lebih sama dengan fungsi 'markDone', namun perbedaannya
 di fungsi ini adalah tugas dengan nomor yang sama dengan input dari pengguna
