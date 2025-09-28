@@ -55,7 +55,7 @@ Menu :
         case "0":
             exit()
         case _:
-            print("Silahkan pilih nomor menu yang sesuai!")
+            print("Silahkan pilih nomor menu yang sesuai! o((>ω< ))o")
             
     tampilMenu()
 
